@@ -1,40 +1,103 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="_W8FNcgs0rQuaxuvfJtf">
-    <mxGraphModel dx="1194" dy="731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1405" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="B3-xOHSUtuc2O_1f22L1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="B3-xOHSUtuc2O_1f22L1-1" target="B3-xOHSUtuc2O_1f22L1-2" edge="1">
+        <mxCell id="B3-xOHSUtuc2O_1f22L1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="B3-xOHSUtuc2O_1f22L1-1" target="B3-xOHSUtuc2O_1f22L1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B3-xOHSUtuc2O_1f22L1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="B3-xOHSUtuc2O_1f22L1-1" target="B3-xOHSUtuc2O_1f22L1-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ATFm_-T_42sJRToTGdDG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B3-xOHSUtuc2O_1f22L1-1" target="ATFm_-T_42sJRToTGdDG-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="96" y="626" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="629" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="B3-xOHSUtuc2O_1f22L1-1" value="" style="aspect=fixed;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=user;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="28" y="165" width="50" height="48" as="geometry" />
+          <mxGeometry x="25" y="410" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="B3-xOHSUtuc2O_1f22L1-2" value="&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Register&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;dashed=0;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" parent="1" vertex="1">
-          <mxGeometry x="139" y="159" width="120" height="60" as="geometry" />
+          <mxGeometry x="126" y="199" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B3-xOHSUtuc2O_1f22L1-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.027;entryY=0.522;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="B3-xOHSUtuc2O_1f22L1-2" target="B3-xOHSUtuc2O_1f22L1-12" edge="1">
+        <mxCell id="B3-xOHSUtuc2O_1f22L1-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.031;entryY=0.6;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="B3-xOHSUtuc2O_1f22L1-2" target="B3-xOHSUtuc2O_1f22L1-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="411" y="326" as="sourcePoint" />
-            <mxPoint x="289" y="67" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="199" y="69" />
-            </Array>
+            <mxPoint x="188" y="259" as="sourcePoint" />
+            <mxPoint x="288.00199999999995" y="315.97399999999993" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B3-xOHSUtuc2O_1f22L1-11" value="Through Laravel App" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B3-xOHSUtuc2O_1f22L1-10" vertex="1" connectable="0">
           <mxGeometry x="0.0336" y="4" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="-96" y="114" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B3-xOHSUtuc2O_1f22L1-12" value="MySQL" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
-          <mxGeometry x="291" y="36" width="74" height="67" as="geometry" />
+          <mxGeometry x="288" y="281" width="74" height="67" as="geometry" />
         </mxCell>
         <mxCell id="B3-xOHSUtuc2O_1f22L1-16" value="MongoDB" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
-          <mxGeometry x="669" y="36" width="74" height="67" as="geometry" />
+          <mxGeometry x="666" y="281" width="74" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.027;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B3-xOHSUtuc2O_1f22L1-12" target="B3-xOHSUtuc2O_1f22L1-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="375" as="sourcePoint" />
+            <mxPoint x="522" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-2" value="Create a New DB, return db name to MySQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATFm_-T_42sJRToTGdDG-1">
+          <mxGeometry x="-0.0588" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-9" value="Add DB name in auth" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATFm_-T_42sJRToTGdDG-4" target="ATFm_-T_42sJRToTGdDG-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="311" y="647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Login&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;dashed=0;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="136" y="599" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.048;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATFm_-T_42sJRToTGdDG-4" target="B3-xOHSUtuc2O_1f22L1-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="206" y="414" as="sourcePoint" />
+            <mxPoint x="364" y="338" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Dashbaord&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;dashed=0;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="132" y="778" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATFm_-T_42sJRToTGdDG-10" target="B3-xOHSUtuc2O_1f22L1-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="372" y="329" as="sourcePoint" />
+            <mxPoint x="678" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-15" value="Get User Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATFm_-T_42sJRToTGdDG-12">
+          <mxGeometry x="0.035" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-16" value="New User (Mongo DB)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="401" width="195" height="180" as="geometry">
+            <mxRectangle x="623" y="156" width="88" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-17" value="Master Prices" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ATFm_-T_42sJRToTGdDG-16">
+          <mxGeometry y="30" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-18" value="Master Courses" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ATFm_-T_42sJRToTGdDG-16">
+          <mxGeometry y="60" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-19" value="Master Staff" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ATFm_-T_42sJRToTGdDG-16">
+          <mxGeometry y="90" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-21" value="Students" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ATFm_-T_42sJRToTGdDG-16">
+          <mxGeometry y="120" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ATFm_-T_42sJRToTGdDG-22" value="Fees" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ATFm_-T_42sJRToTGdDG-16">
+          <mxGeometry y="150" width="195" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
